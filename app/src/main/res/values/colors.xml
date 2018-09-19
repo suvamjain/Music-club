@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#296693</color>
+    <color name="colorPrimaryDark">#125688</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#c8e8ff</color>
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="toolbar_shadow">#5384a8</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="colorTextDisable">#66FFFFFF</color>
+    <color name="enabled_color">#F7FE2E</color>
+    <color name="disabled_color">#000000</color>
+
+    <color name="dialogBack">#2f323f</color>
+    <color name="dialogPrimary">#3F51B5</color>
+    <color name="orange">#eaad43</color>
+    <color name="bluelight">#49acd5</color>
+    <color name="green">#45bc62</color>
+
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="toolbar_text">#8f000000</color>
+    <color name="fg_pressed">#55000000</color>
+    <color name="fg_disabled">#55000000</color>
+</resources>

@@ -1,0 +1,77 @@
+<resources>
+    <attr name="hourMin" format="integer"/>
+    <attr name="hourMax" format="integer"/>
+    <attr name="hourHeight" format="dimension"/>
+    <attr name="hourLineWidth" format="dimension"/>
+    <attr name="hourLineColor" format="color"/>
+    <attr name="hourLinePadding" format="dimension"/>
+    <attr name="hourLinePaddingLeft" format="dimension"/>
+    <attr name="hourLinePaddingRight" format="dimension"/>
+    <attr name="hourTextColor" format="color"/>
+    <attr name="hourBackground" format="color"/>
+    <attr name="hourTextSize" format="dimension"/>
+    <attr name="hourPadding" format="dimension"/>
+    <attr name="hourPaddingLeft" format="dimension"/>
+    <attr name="hourPaddingRight" format="dimension"/>
+    <attr name="disabledTimeColor" format="color"/>
+    <attr name="dayTextColor" format="color"/>
+    <attr name="dayTextSize" format="dimension"/>
+    <attr name="dayTextPadding" format="dimension"/>
+    <attr name="dayTextPaddingLeft" format="dimension"/>
+    <attr name="dayTextPaddingRight" format="dimension"/>
+    <attr name="dayTextPaddingTop" format="dimension"/>
+    <attr name="dayTextPaddingBottom" format="dimension"/>
+    <attr name="timeLinePadding" format="dimension"/>
+    <attr name="timeLinePaddingLeft" format="dimension"/>
+    <attr name="timeLinePaddingRight" format="dimension"/>
+    <attr name="timeLinePaddingTop" format="dimension"/>
+    <attr name="timeLinePaddingBottom" format="dimension"/>
+
+    <declare-styleable name="TimeLineView">
+        <attr name="hourMin"/>
+        <attr name="hourMax"/>
+        <attr name="hourHeight"/>
+        <attr name="hourLineWidth"/>
+        <attr name="hourLineColor"/>
+        <attr name="hourLinePadding"/>
+        <attr name="hourLinePaddingLeft"/>
+        <attr name="hourLinePaddingRight"/>
+        <attr name="hourTextColor"/>
+        <attr name="hourBackground"/>
+        <attr name="hourTextSize"/>
+        <attr name="hourPadding"/>
+        <attr name="hourPaddingLeft"/>
+        <attr name="hourPaddingRight"/>
+        <attr name="disabledTimeColor"/>
+    </declare-styleable>
+
+    <declare-styleable name="DayViewPager">
+        <attr name="hourMin"/>
+        <attr name="hourMax"/>
+        <attr name="hourHeight"/>
+        <attr name="hourLineWidth"/>
+        <attr name="hourLineColor"/>
+        <attr name="hourLinePadding"/>
+        <attr name="hourLinePaddingLeft"/>
+        <attr name="hourLinePaddingRight"/>
+        <attr name="hourTextColor"/>
+        <attr name="hourBackground"/>
+        <attr name="hourTextSize"/>
+        <attr name="hourPadding"/>
+        <attr name="hourPaddingLeft"/>
+        <attr name="hourPaddingRight"/>
+        <attr name="disabledTimeColor"/>
+        <attr name="dayTextColor" />
+        <attr name="dayTextSize" />
+        <attr name="dayTextPadding" />
+        <attr name="dayTextPaddingLeft" />
+        <attr name="dayTextPaddingRight" />
+        <attr name="dayTextPaddingTop" />
+        <attr name="dayTextPaddingBottom" />
+        <attr name="timeLinePadding" />
+        <attr name="timeLinePaddingLeft" />
+        <attr name="timeLinePaddingRight" />
+        <attr name="timeLinePaddingTop" />
+        <attr name="timeLinePaddingBottom" />
+    </declare-styleable>
+</resources>
